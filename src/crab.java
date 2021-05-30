@@ -1,8 +1,6 @@
 
-
-//this interface contains CatchCrab class methods
-interface crab 
+public interface crab 
 {
     public void inputCrab(); 
-    public void pondCrab(int crabValue); 
+    public void pondCrab(int crabValue);
 }
